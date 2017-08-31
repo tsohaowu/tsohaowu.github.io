@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url("https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css");
 
 /* Reset */
 
@@ -115,7 +116,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: "cwTeXFangSong", "Source Sans Pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
